@@ -72,11 +72,11 @@ Note for Windows users using native PowerShell (without a Unix-like environment)
 
 Below are a few screenshots showing the game's ASCII UI and gameplay screens. The images are referenced from `assets/screenshots/`—place the attached screenshot files there with the names used below so they appear in this README.
 
-![Title Screen / Banner](assets/screenshots/screenshot-01.png)
+![Title Screen / Banner](data/demo.gif)
 
-![How to Play / Instructions Screen](assets/screenshots/screenshot-02.png)
+![How to Play / Instructions Screen](data/project1.png)
 
-![Gameplay / Bust Example](assets/screenshots/screenshot-03.png)
+![Gameplay / Bust Example](data/project2.png)
 
 If the images aren't present in your local copy, you can add them into `assets/screenshots/` (create the directory if needed) and name them `screenshot-01.png`, `screenshot-02.png`, and `screenshot-03.png` respectively. On GitHub the images will render inline once uploaded.
 
