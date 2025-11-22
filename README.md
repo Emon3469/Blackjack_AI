@@ -70,7 +70,7 @@ Note for Windows users using native PowerShell (without a Unix-like environment)
 
 ## Screenshots
 
-Below are a few screenshots showing the game's ASCII UI and gameplay screens. The images are referenced from `assets/screenshots/`—place the attached screenshot files there with the names used below so they appear in this README.
+Below are a few screenshots showing the game's ASCII UI and gameplay screens. The images are referenced from `data/`—place the attached screenshot files there with the names used below so they appear in this README.
 
 ![Title Screen / Banner](data/demo.gif)
 
