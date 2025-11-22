@@ -78,7 +78,7 @@ Below are a few screenshots showing the game's ASCII UI and gameplay screens. Th
 
 ![Gameplay / Bust Example](data/project2.png)
 
-If the images aren't present in your local copy, you can add them into `assets/screenshots/` (create the directory if needed) and name them `screenshot-01.png`, `screenshot-02.png`, and `screenshot-03.png` respectively. On GitHub the images will render inline once uploaded.
+If the images aren't present in your local copy, you can add them into `data/` (create the directory if needed) and name them `demo.gif`, `project1.png`, and `project2.png` respectively. On GitHub the images will render inline once uploaded.
 
 ## License
 
